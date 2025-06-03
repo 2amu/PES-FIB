@@ -1,0 +1,20 @@
+# Ignorar archivos y carpetas de IntelliJ/Android Studio
+.idea/
+*.iml
+
+# Ignorar archivos y carpetas de Gradle
+.gradle/
+build/
+
+# Ignorar archivos de compilación y temporales de Java/Kotlin
+out/
+bin/
+
+# Ignorar cachés y dependencias descargadas
+*.log
+*.class
+*.jar
+*.war
+*.ear
+
+local.properties
