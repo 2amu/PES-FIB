@@ -13,9 +13,9 @@
 
 Este repositorio incluye el proyecto completo dividido en tres partes:
 
-- [`frontend/`](./frontend): Aplicación Android desarrollada en **Kotlin** usando **Jetpack Compose**.
-- [`backend/`](./backend): API desarrollada en **Django** con conexión a base de datos **PostgreSQL**.
-- [`docs/`](./docs): Documentación completa del proyecto:
+- [`Frontend/`](./Front-End): Aplicación Android desarrollada en **Kotlin** usando **Jetpack Compose**.
+- [`Backend/`](./Back-End): API desarrollada en **Django** con conexión a base de datos **PostgreSQL**.
+- [`Docs/`](./doc): Documentación completa del proyecto:
   - Diseño y arquitectura.
   - Manual de usuario y despliegue.
   - Diagrama de clases y de componentes.
@@ -23,7 +23,7 @@ Este repositorio incluye el proyecto completo dividido en tres partes:
   
 ## Demo
 
-Puedes encontrar el relase aqui.
+Puedes encontrar el release del apk [AQUI](./Front-End/app/release).
 
 ## 📚 Proyecto académico
 
